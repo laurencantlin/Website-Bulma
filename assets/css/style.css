@@ -1,0 +1,22 @@
+a.navbar-item.logo{
+    /* background-color: aquamarine; */
+}
+.navbar-item img{
+    max-height: none;
+}
+.navbar-item{
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 400;
+
+    font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.box-logo{
+    border-radius: 100%;
+    font-size: 22px;
+padding: 10px;
+    font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+
+color: #262626;
+}
